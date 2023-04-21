@@ -1,0 +1,17 @@
+        h1{text-underline-position: auto;
+            color:saddlebrown;
+            background-color:thistle;
+        }
+        h3{ 
+            color:thistle;
+            background-color: saddlebrown;
+            text-decoration: underline;
+        }
+        p{
+            color:saddlebrown ;
+            background-color:thistle;
+        }
+        table{
+            background-color: thistle;
+            color: saddlebrown;
+        }
